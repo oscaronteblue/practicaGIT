@@ -1,0 +1,6 @@
+if c=2 then
+.
+.
+.
+.
+end if
